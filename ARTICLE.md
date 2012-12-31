@@ -22,7 +22,7 @@ I later found out that there were actually a few companied paying PC owners for 
 Pretty upsetting, but then again, I like challenges.
 
 ## (500*(351^2))!
-
+escreve qqc
 ## I'll build it anyway, for fun
 
 ## Web Browsers come into the mix
