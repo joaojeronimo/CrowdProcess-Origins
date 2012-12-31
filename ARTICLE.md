@@ -17,7 +17,7 @@ In one of the talks, [Miguel Milano](http://congresso10.apdc.pt/Orador/Orador.as
 
 So this was the spark, I know, very disappointing. But that's when it all started, and all the rest was brainstormming and refining the idea.
 
-I later found out that there were actually a few companied paying PC owners for computing power, that those were the smaller processing power pools, that there was already a graveyard of companies who tried to do it before, that that model did not exactly work because the electricity costs were sometimes greater or equal to the benefits of harnessing the CPU power, and that it was hard to aquire CPU power suppliers one by one.
+I later found out that there were actually a few companies paying PC owners for computing power, that those were the smaller processing power pools, that there was already a graveyard of companies who tried to do it before, that that model did not exactly work because the electricity costs were sometimes greater or equal to the benefits of harnessing the CPU power, and that it was hard to aquire CPU power suppliers one by one.
 
 Pretty upsetting, but then again, I like challenges.
 
